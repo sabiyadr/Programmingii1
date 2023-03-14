@@ -17,9 +17,8 @@ class Salesperson:
     self.sales = sales
     self.comm = 0
 
-def setComm(self):
-  self.__calc()
-
-# Overide the str() Dunder/Magic method (toString)
-def __str__(self):
-  return f"{self.id}\t{self.code}\t{self.sales}\t{self.comm}"
+  def setComm(self):
+    self.__calc()
+  # Overide the str() Dunder/Magic method (toString)
+  def __str__(self):
+    return f"{self.id}\t{self.code}\t{self.sales}\t{self.comm}"
