@@ -3,6 +3,11 @@ def fact(n):
   return n * fact(n-1) # Recursive Case
 
 def factLoop():
+  sum = 0
+  for i in range(n, 0, -1):
+    sum += i 
+  return sum
+    
 
 
 def main():
