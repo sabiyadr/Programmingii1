@@ -6,7 +6,7 @@ print("Your Number: ", pnum)
 if pnum in range(1, 20):
   if ainum == pnum:
     print("You Won!")
-  elif not ainum == pnum:
+  elif ainum != pnum:
     print("Better Luck Next Time")
 else:
   print("Your Number is Invalid")
