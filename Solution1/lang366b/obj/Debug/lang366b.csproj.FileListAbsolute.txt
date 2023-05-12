@@ -1,0 +1,9 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\bin\Debug\lang366b.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\bin\Debug\lang366b.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\bin\Debug\lang366b.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\obj\Debug\lang366b.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\obj\Debug\lang366b.Form1.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\obj\Debug\lang366b.Properties.Resources.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\obj\Debug\lang366b.csproj.GenerateResource.Cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\obj\Debug\lang366b.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang366b\obj\Debug\lang366b.pdb

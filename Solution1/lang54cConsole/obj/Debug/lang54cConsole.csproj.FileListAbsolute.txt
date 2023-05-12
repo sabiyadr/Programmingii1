@@ -1,0 +1,5 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54cConsole\bin\Debug\lang54cConsole.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54cConsole\bin\Debug\lang54cConsole.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54cConsole\bin\Debug\lang54cConsole.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54cConsole\obj\Debug\lang54cConsole.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54cConsole\obj\Debug\lang54cConsole.pdb

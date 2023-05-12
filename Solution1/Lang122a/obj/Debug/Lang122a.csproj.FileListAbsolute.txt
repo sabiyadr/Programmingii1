@@ -1,0 +1,9 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\bin\Debug\Lang122a.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\bin\Debug\Lang122a.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\bin\Debug\Lang122a.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\obj\Debug\Lang122a.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\obj\Debug\Lang122a.Form1.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\obj\Debug\Lang122a.Properties.Resources.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\obj\Debug\Lang122a.csproj.GenerateResource.Cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\obj\Debug\Lang122a.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Lang122a\obj\Debug\Lang122a.pdb

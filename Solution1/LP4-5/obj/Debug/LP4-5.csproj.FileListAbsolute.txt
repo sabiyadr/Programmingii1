@@ -1,0 +1,6 @@
+C:\Users\sabiyad.r\Documents\Visual Studio 2013\Projects\Solution1\LP4-5\bin\Debug\LP4-5.exe.config
+C:\Users\sabiyad.r\Documents\Visual Studio 2013\Projects\Solution1\LP4-5\obj\Debug\LP4-5.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\Documents\Visual Studio 2013\Projects\Solution1\LP4-5\bin\Debug\LP4-5.exe
+C:\Users\sabiyad.r\Documents\Visual Studio 2013\Projects\Solution1\LP4-5\bin\Debug\LP4-5.pdb
+C:\Users\sabiyad.r\Documents\Visual Studio 2013\Projects\Solution1\LP4-5\obj\Debug\LP4-5.exe
+C:\Users\sabiyad.r\Documents\Visual Studio 2013\Projects\Solution1\LP4-5\obj\Debug\LP4-5.pdb

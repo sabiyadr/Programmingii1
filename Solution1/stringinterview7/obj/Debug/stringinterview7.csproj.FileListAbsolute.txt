@@ -1,0 +1,6 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\stringinterview7\bin\Debug\stringinterview7.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\stringinterview7\bin\Debug\stringinterview7.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\stringinterview7\bin\Debug\stringinterview7.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\stringinterview7\obj\Debug\stringinterview7.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\stringinterview7\obj\Debug\stringinterview7.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\stringinterview7\obj\Debug\stringinterview7.pdb

@@ -1,0 +1,9 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\bin\Debug\lang88a.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\bin\Debug\lang88a.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\bin\Debug\lang88a.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\obj\Debug\lang88a.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\obj\Debug\lang88a.Form1.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\obj\Debug\lang88a.Properties.Resources.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\obj\Debug\lang88a.csproj.GenerateResource.Cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\obj\Debug\lang88a.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang88a\obj\Debug\lang88a.pdb

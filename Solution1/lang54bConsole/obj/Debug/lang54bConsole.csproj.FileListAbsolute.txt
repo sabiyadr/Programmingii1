@@ -1,0 +1,6 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54bConsole\bin\Debug\lang54bConsole.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54bConsole\bin\Debug\lang54bConsole.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54bConsole\bin\Debug\lang54bConsole.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54bConsole\obj\Debug\lang54bConsole.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54bConsole\obj\Debug\lang54bConsole.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54bConsole\obj\Debug\lang54bConsole.csprojResolveAssemblyReference.cache

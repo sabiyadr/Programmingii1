@@ -1,0 +1,9 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\bin\Debug\lang54a.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\bin\Debug\lang54a.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\bin\Debug\lang54a.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\obj\Debug\lang54a.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\obj\Debug\lang54a.Form1.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\obj\Debug\lang54a.Properties.Resources.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\obj\Debug\lang54a.csproj.GenerateResource.Cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\obj\Debug\lang54a.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\lang54a\obj\Debug\lang54a.pdb

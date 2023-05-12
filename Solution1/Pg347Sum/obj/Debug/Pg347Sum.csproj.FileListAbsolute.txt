@@ -1,0 +1,9 @@
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\bin\Debug\Pg347Sum.exe.config
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\bin\Debug\Pg347Sum.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\bin\Debug\Pg347Sum.pdb
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\obj\Debug\Pg347Sum.csprojResolveAssemblyReference.cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\obj\Debug\Pg347Sum.Form1.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\obj\Debug\Pg347Sum.Properties.Resources.resources
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\obj\Debug\Pg347Sum.csproj.GenerateResource.Cache
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\obj\Debug\Pg347Sum.exe
+C:\Users\sabiyad.r\documents\visual studio 2013\Projects\Solution1\Pg347Sum\obj\Debug\Pg347Sum.pdb
