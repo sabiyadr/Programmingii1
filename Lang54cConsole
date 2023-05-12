@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lang54cConsole
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter Diameter: ");
+            int dia = int.Parse(Console.ReadLine());
+
+            int rad = dia / 2;
+            double area = (double)3.14 * rad * rad;
+            double circ = (double)dia * 3.14;
+
+            Console.WriteLine("Radius: " + rad);
+            Console.WriteLine("Area: " + area);
+            Console.WriteLine("Circumference: " + circ);
+            Console.ReadLine();
+        }
+    }
+}
